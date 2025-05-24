@@ -2,7 +2,7 @@
 //created TomNech
 // ========== KONFIGURACE AP ==========
 const char* ssidAP     = "ESP32_RCAUTO"; 
-const char* passwordAP = "1234";        
+const char* passwordAP = "12345678";        
 
 // ========== KONFIGURACE LED PÁSKU ==========
 const int LED_PIN   = 2;   
